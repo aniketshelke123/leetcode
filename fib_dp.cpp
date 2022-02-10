@@ -3,7 +3,7 @@
 
 using namespace std;
 
-
+// bottom up approach
 void fib(long long n, long long f[]){
     f[0] = 0;
     f[1] = 1;
